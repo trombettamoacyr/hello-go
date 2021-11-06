@@ -1,2 +1,8 @@
 # hello-go
-hello golang
+
+Algorithm to study the basic syntax of golang.
+
+### Run application
+``` 
+go run .
+```
